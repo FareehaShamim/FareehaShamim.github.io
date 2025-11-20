@@ -9,3 +9,6 @@ lab*.ipynb
 # virtual environments
 .venv/
 myenv/
+
+# Project 2 data files
+project2/data/*.csv
